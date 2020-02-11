@@ -1,4 +1,4 @@
-# George Washington Carver page, https://en.wikipedia.org/wiki/George_Washington_Carver
+George Washington Carver, https://en.wikipedia.org/wiki/George_Washington_Carver
 
 &lt;blockquote&gt;Carver worked on improving soils, growing crops with low inputs, and using species that fixed nitrogen (hence, the work on the cowpea and the peanut). Carver wrote in 'The Need of Scientific Agriculture in the South': &quot;The virgin fertility of our soils and the vast amount of unskilled labor have been more of a curse than a blessing to agriculture. This exhaustive system for cultivation, the destruction of forest, the rapid and almost constant decomposition of organic matter, have made our agricultural problem one requiring more brains than of the North, East or West.&quot;&lt;ref&gt;Fishbein, Toby. [http://www.add.lib.iastate.edu/preserv/cdm/gwcbio.html &quot;The Legacy of George Washington Carver&quot;], Iowa State University Library.&lt;/ref&gt;&lt;/blockquote&gt;
 
@@ -142,14 +142,22 @@ UNIDENTIFIED
 * [http://www.add.lib.iastate.edu/spcl/wise/wise.html Archives of Women in Science and Engineering] at Iowa State University
 
 ---
+West Area Computers, https://en.wikipedia.org/wiki/West_Area_Computers
 
 According to an unpublished study by Beverly E. Golemba of Langley's early computers, a number of other women did not know about the West Computers.&lt;ref&gt;{{cite web|url=http://www.add.lib.iastate.edu/spcl/manuscripts/MS307.html|title=Beverly E. Golemba Papers, MS 307, Archives of Women in Science and Engineering, Special Collections Department|author=|date=|work=[[Iowa State University]] Library|accessdate=6 February 2017}}&lt;/ref&gt; That said, both the black and white women Golemba interviewed recalled that when computers from both groups were assigned to a project together, &quot;everyone worked well together.&quot;&lt;ref&gt;{{cite news|title=&quot;Panel Discussion with Women Computers&quot; NASA Langley videotape|date=December 13, 1990}}&lt;/ref&gt;&lt;ref name=&quot;NASACRgis&quot;/&gt;&lt;ref&gt;Beverly Golemba, [https://crgis.ndc.nasa.gov/crgis/images/c/c7/Golemba.pdf ''Human Computers: The Women in Aeronautical Research''], unpublished manuscript 1994, NASA Langley Archives&lt;/ref&gt;
 
+---
+John M. Bremner, https://en.wikipedia.org/wiki/John_M._Bremner
+
 Bremner grew up in [[Dumbarton|Dumbaarton, Scotland]] and attended [[Dumbarton Academy]].&lt;ref name=ISU&gt;{{cite web|title=J. M. Bremner|url=http://www.agron.iastate.edu/personnel/deos/bremner.aspx|publisher=[[Iowa State University]]|accessdate=December 10, 2015}}&lt;/ref&gt; He earned an undergraduate degree at the [[University of Glasgow]] and two doctorates from the [[University of London]] - one in chemistry and another in soil science. After spending several years at the [[Rothamsted Research|Rothamsted Experimental Station]], Bremner was a faculty member at [[Iowa State University]] from 1959 to 1992.&lt;ref name=NAS/&gt; He had been named the Charles F. Curtiss Distinguished Professor of Agriculture in 1975.&lt;ref name=ISU/&gt; He conducted research into the nitrogen and sulfur content of soil.&lt;ref name=Papers&gt;{{cite web|title=John M. Bremner Papers|url=http://www.add.lib.iastate.edu/spcl/arch/rgrp/9-9-59.html|publisher=[[Iowa State University]]|accessdate=December 10, 2015}}&lt;/ref&gt;
 
+---
+Lois H. Tiffany, https://en.wikipedia.org/wiki/Lois_H._Tiffany
 &lt;ref name=isu&gt;[http://www.add.lib.iastate.edu/spcl/arch/rgrp/13-05-20.pdf &quot;RS 13/5/20 L. H. (Lois Hattery) Tiffany (1924-2009) Papers, 1940-2010, undated&quot;]. Iowa State University Special Collections (finding aid). Accessed Dec. 17, 2015.&lt;/ref&gt;
 
 *[http://www.add.lib.iastate.edu/spcl/arch/rgrp/13-05-20.pdf Finding aid for Lois H. Tiffany papers at ISU]
+
+---
 
 '''Charles Harvey Brown''' (December 23, 1875 – January 19, 1960) was an American librarian and leader in the [[American Library Association]]. He received a bachelor's degree from [[Wesleyan University]] in 1897 and a master's degree in 1899. He went on to receive a second bachelor's degree in Library Science at the New York State Library School in 1901. He later received a Literary Doctorate from [[Wesleyan University]] in 1937. He began working at Wesleyan University from 1897 to 1899 and then worked for the [[Library of Congress]] from 1901 to 1903. Brown worked for the [[John Crerar Library]] from 1903 to 1909 and the [[Brooklyn Public Library ]] from 1909 to 1919.&lt;ref&gt;{{cite web|title=Charles Harvey Brown Papers|url=http://www.add.lib.iastate.edu/spcl/arch/rgrp/25-1-19.html|website=e-library @ Iowa State University|accessdate=6 March 2016}}&lt;/ref&gt;
 
